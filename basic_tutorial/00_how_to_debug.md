@@ -15,4 +15,4 @@ y2 = torch.sin(x + 0.5 * np.pi)
 ```
 | **$sin(x)$** | **$sin(x)$ and $sin(x+\frac 1 2 \pi)$** |
 |:------------:|:---------------------------------------:|
-| <img style="align-self:center;" src="how_to_debug/sin.png" image="None" styles="{'margin': '0.5em'}" width="None" height="None"/> | <img style="align-self:center;" src="how_to_debug/sin_cos.png" image="None" styles="{'margin': '0.5em'}" width="None" height="None"/> |
+| <img style="align-self:center;" src="00_how_to_debug/sin.png" image="None" styles="{'margin': '0.5em'}" width="None" height="None"/> | <img style="align-self:center;" src="00_how_to_debug/sin_cos.png" image="None" styles="{'margin': '0.5em'}" width="None" height="None"/> |
