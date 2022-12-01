@@ -1,6 +1,6 @@
 from cmx import CommonMark
 
-doc = CommonMark("README.md")
+doc = CommonMark("README-new.md")
 
 if __name__ == '__main__':
     doc @ """
